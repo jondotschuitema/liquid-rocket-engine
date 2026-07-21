@@ -1,0 +1,5 @@
+This repository documents design and engineering work on liquid rocket engine components for educational and research purposes only. It is not an instruction manual, step-by-step build guide, or safety-certified procedure, and nothing here constitutes professional engineering advice.
+
+All reference material is publicly available within the United States. Readers are responsible for ensuring their use of this material complies with all applicable laws in their jurisdiction.
+
+Rocket propulsion involves energetic materials, high pressures, and extreme temperatures. Any attempt to design, fabricate, or test hardware based on this repository is undertaken **entirely at your own risk**. I assume no liability for injury, death, property damage, legal consequences, or any other outcome resulting from use of this material.
